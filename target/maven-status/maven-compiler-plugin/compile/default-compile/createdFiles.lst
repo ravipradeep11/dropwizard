@@ -1,0 +1,10 @@
+com/howtodoinjava/rest/basicauth/User.class
+com/howtodoinjava/rest/representations/Employee.class
+com/howtodoinjava/rest/healthcheck/AppHealthCheck.class
+com/howtodoinjava/rest/healthcheck/HealthCheckController.class
+com/howtodoinjava/rest/dao/EmployeeDB.class
+com/howtodoinjava/rest/basicauth/AppAuthenticator.class
+com/howtodoinjava/rest/controller/EmployeeRESTController.class
+com/howtodoinjava/rest/controller/RESTClientController.class
+com/howtodoinjava/rest/basicauth/AppAuthorizer.class
+com/howtodoinjava/rest/App.class

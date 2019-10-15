@@ -41,6 +41,7 @@ public class App extends Application<Configuration> {
 				.build("DemoRESTClient");
 		e.jersey().register(new RESTClientController(client));
 
+
 		// Application health check
 		e.healthChecks().register("APIHealthCheck", new AppHealthCheck(client));
 
